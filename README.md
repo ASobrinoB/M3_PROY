@@ -14,7 +14,7 @@ https://shorturl.at/gnMR2
 
 - Header
 
-- Jumbotron
+- destacado
 
 - Catálogo
 
