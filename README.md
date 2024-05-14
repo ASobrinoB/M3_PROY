@@ -1,28 +1,109 @@
+![Banner](./images/UDD.png) 
 
-# Landing de Ventas (Proyecto01)
+# Landing pagina Magenta Barrio Italia
 
-El presente proyecto fue realizado como primer proyecto del Bootcamp Full Stack Developer.
-Se solicita crear un Landing de Ventas utilizando HTML semántico estandar no.5 (HTML5) y CSS. 
-Para su creación se implementó el programa Visual Studio Code.
-Se implementaron atributos de class y id para dar forma y estructura al proyecto. 
-<div>
-Para acceder al proyecto:
-https://shorturl.at/gnMR2
-</div>
+## **ÍNDICE**
 
-## Estructura
+* [1. Introducción](#1-introduccion)
+* [2. Paradigmas](#2-paradigmas)
+* [3. Procesos](#3-procesos)
+* [4. Implementacion](#4-implementacion)
+* [5. Bucles](#5-bucles)
+* [6. Ejecución](#6-ejecucion)
 
-- Header
+****
 
-- destacado
+## 1. Introducción
 
-- Catálogo
+El código JavaScript resuelve el enunciado que se indica a continuación:
 
-- Registro de Usuario
+### Enunciado ###
 
-- Footer
+Construirás un programa en JavaScript que permita a los usuarios crear encuestas, votar y ver los resultados en tiempo real. El programa debe cumplir con los siguientes requisitos:
+
+- Permitir a los usuarios crear encuestas con opciones de respuesta.
+- Permitir a los usuarios votar en las encuestas.
+- Mostrar los resultados de las encuestas en tiempo real.
+- Almacenar los datos de las encuestas y los votos en una variable.
+- Implementar la solución utilizando programación orientada a objetos (POO) o programación funcional (PF).
+- Subirás tu solución a un repositorio de GitHub, el cual compartirás con tu equipo educativo, posteriormente.
+
+****
+
+## 2. Paradigmas
+
+SOLUCIÓN EN POO
+- Permitir a los usuarios crear encuestas con opciones de respuesta
+- Permitir a los usuarios votar en las encuestas
+- Mostrar los resultados de las encuestas
+- Almacenar los datos de las encuestas y los votos en una variable
+- Almacenar los datos de las encuestas y los votos en una estructura de datos
+- Las encuestas deben contener al menos 8 preguntas con opciones de respuesta.
+
+SOLUCIÓN EN PF
+- Permitir a los usuarios crear encuestas con opciones de respuesta
+- Permitir a los usuarios votar en las encuestas
+- Mostrar los resultados de las encuestas
+- Almacenar los datos de las encuestas y los votos en una variable
+- Almacenar los datos de las encuestas y los votos en una estructura de datos
+- Las encuestas deben contener al menos 8 preguntas con opciones de respuesta.
+
+****
+
+## 3. Procesos
+
+En el codigo JavaScript se implementacion 3 procesos para resolver el enunciado
+
+- Ingreso de las preguntas
+- Ingreso de la votacion
+- Resumen de las votaciones
+
+## 4. Implementacion
+
+- En este proceso se definió una constante que contine la cantidad minima de preguntas a ingresar
+
+![Image](./imagenes/cantidadminima.png) 
+
+- Para la POO se definió una clase y sus metodos asociados
+
+![Image](./imagenes/clasesymetodos.png) 
+
+- Para la PF se definió un objeto y se definieron funciones
+
+![Image](./imagenes/objetos.png) 
+
+****
+
+## 5. Bucles
+
+En las siguientes imagenes se muestra el bucle usado en la POO
+
+![Image](./imagenes/bucle1poo.png) 
+![Image](./imagenes/bucle2poo.png) 
+![Image](./imagenes/bucle3poo.png) 
+
+A diferencia de POO en la PF el bucle lo contienen las funciones
+
+![Image](./imagenes/buclepf.png) 
+
+****
+
+## 6. Ejecucion
+
+En la siguiente imagen se muestra la ejecución 
+
+- Ingreso de las preguntas
+
+![Image](./imagenes/ejecucion1.png)
+
+- Ingreso de la votación
+
+![Image](./imagenes/ejecucion2.png) 
+
+- Resumen de las votaciones
+
+![Image](./imagenes/ejecucion3.png) 
 
 
-## 🚀 About Me
-Soy estudiante del Bootcamp Full Stack Developer, aun en pleno proceso de aprendizaje.
+****
 
