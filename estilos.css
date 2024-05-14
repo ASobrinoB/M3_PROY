@@ -70,7 +70,7 @@ main {
     font-size: 10px;
 }
 
-#catalogo {
+#products {
     display: flex;
     flex-wrap: wrap;
     gap: 30px;
@@ -79,7 +79,7 @@ main {
     color: white;
 }
 
-#titulocatalogo {
+#tituloproducts {
     width: 100%;
     text-align: center;
 }
@@ -105,7 +105,7 @@ main {
     border-radius: 10px;
 }
 
-#button-vermas{
+#destacado-vermas{
     background-color: rgb(5, 70, 90);
     color: white;
     display: flex;
@@ -146,7 +146,7 @@ input[type=password] {
     background: white;
 }
 
-button{
+destacado{
     background-color: rgb(5, 70, 90);
     color: white;
     padding: 10px;
@@ -223,12 +223,12 @@ footer h3 {
     #textodestacado{
         font-size: 10px;
     }
-    #catalogo {
+    #products {
         gap: 15px;
         padding: 10px 5px 15px 40px;
         font-size: 10px;
     }
-    #titulocatalogo {
+    #tituloproducts {
         width: 66%;
         text-align: start;
     }
@@ -255,7 +255,7 @@ footer h3 {
         height: 450px;
     }
 
-    button {
+    destacado {
         background-color: rgb(5, 70, 90);
         color: white;
         padding: 10px;
