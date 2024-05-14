@@ -31,13 +31,13 @@ d. Footer Sección que incluye todas las áreas del sitio, incluyendo redes soci
 De manera opcional y recomendada, que la vista se adapte a móviles
 A continuación, conoce las secciones en este dibujo, en formato de prototipado simple:
 
-![Image](./images/prototipo.png) 
+![Image](./prototipo.png) 
 
 ****
 
 ## 2. Implementacion
 
-![Image](./imagenes/prototipoimpl.png) 
+![Image](./prototipoimpl.png) 
 
 ****
 
